@@ -1,0 +1,99 @@
+body
+{
+    background-color: gray;
+    width: 960px;
+    margin: 12% auto;
+    
+}
+.div
+{
+    width: 25%;
+    padding: 50px;
+    float: left;
+    font-family: sans-serif;
+    
+
+
+}
+#div1
+{
+    background-color: rgb(159, 56, 77);
+    color: white;
+    height: 290px;
+
+}
+#div2
+{
+    background-color:rgb(255, 255, 255) ;
+    height: 290px;
+
+    
+}
+#fb{
+    background-color: rgb(72, 72, 156);
+    color: white;
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 8px;
+    text-align: left;
+    border: none;
+}
+#gp{
+    background-color: rgb(208, 65, 30);
+    color: white;
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 8px;
+    text-align: left;
+    border: none;
+}
+#twit{
+    background-color: rgb(20, 160, 215);
+    color: white;
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 8px;
+    text-align: left;
+    border: none;
+}
+
+#account{
+    text-decoration: none;
+    color: rgb(14, 114, 236);
+}
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#div1para{
+    font-weight:600;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+.div2para{
+    color: rgb(159, 56, 77);
+    font-size: 11px;
+}
+.input{
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 6px;
+    
+    
+}
+#loginbutton{
+    width: 70px;
+    margin-top: 15px;
+    background-color: crimson;
+    border: none;
+    padding: 9px;
+    border-radius: 2px;
+    color: white;
+}
+#checkbox{
+    font-size: 10px;
+}
+.anchor{
+    color: rgb(159, 56, 77);
+    text-decoration: none;
+}

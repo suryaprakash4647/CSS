@@ -1,0 +1,63 @@
+button
+{
+    border: none;
+    text-align: center;
+    padding: 10px 20px;
+}
+.botton1{
+    color: white;
+    background-color: red;
+
+}
+.button2{
+    color: white;
+    background-color: rgb(89, 192, 232);
+}
+.button3{
+    color: white;
+    background-color: rgb(91, 242, 91);
+}
+.button4{
+    color: white;
+    background-color: orange
+}
+.button5{
+    color: white;
+    background-color: rgb(14, 187, 127);
+}
+.button6{
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+.button7{
+    color: white;
+    background-color: grey;
+}
+.no-fill-button1{
+    background-color: transparent;
+    border: 2px solid rgba(128, 128, 128, 0.858);
+}
+.no-fill-button2{
+    background-color: transparent;
+    border: 2px solid rgba(128, 128, 128, 0.858);
+}
+.no-fill-button3{
+    background-color: transparent;
+    border: 2px solid rgba(128, 128, 128, 0.858);
+}
+.no-fill-button4{
+    background-color: transparent;
+    border: 2px solid rgba(128, 128, 128, 0.858);
+}
+.no-fill-button5{
+    background-color: transparent;
+    border: 2px solid rgba(128, 128, 128, 0.858);
+}
+.no-fill-button6{
+    background-color: transparent;
+    border: 2px solid rgba(128, 128, 128, 0.858);
+}
+.no-fill-button7{
+    background-color: transparent;
+    border: 2px solid rgba(128, 128, 128, 0.858);
+}
